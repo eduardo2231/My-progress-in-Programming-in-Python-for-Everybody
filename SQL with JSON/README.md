@@ -1,0 +1,1 @@
+This code I used the library json and sqlite3, I admit that initially I thought would be very hard and lengthy but in the end, it was fast. This's probabily gonna be one my last codes by course python for everbody on the coursera
